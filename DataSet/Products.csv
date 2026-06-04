@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price
+P301,Laptop,Electronics,70000
+P302,Headphones,Electronics,2000
+P303,Coffee Maker,Home Appliances,3500
+P304,Office Chair,Furniture,8000
+P305,Smartphone,Electronics,30000
